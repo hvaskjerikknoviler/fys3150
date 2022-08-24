@@ -1,14 +1,13 @@
 // Look, our first C++ program!
 
 #include <iostream>
+#include <cmath>
 
-int main()
+double x = 5;
+double main()
 {
-  // Print a message to screen
-  std::cout << "Søren er litt grinete fordi jeg fant en bedre løsning.\n";
-
-  // Return 0 when done
-  return 0;
+  double f = 5*x;
+  return f;
 }
 
-
+main()
