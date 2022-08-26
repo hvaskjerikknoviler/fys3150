@@ -1,6 +1,7 @@
 
 #include <iostream>
 #include <cmath>
+#include <armadillo>
 
 double f(double x){
   return 100*exp(-10*x);
