@@ -4,7 +4,6 @@
 #include <armadillo>
 
 
-
 int main(){
 
     double s = 3.14;
